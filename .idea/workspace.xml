@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db94c7aa-dff1-4e94-be66-97a3ab9b2a8a" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/XRtZSvsAbz3I3i1ghnyDNiKfmww=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/YBQZ27twsGgxZllzUeelsRfANo0=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Z1JRDgO3RdONgGFQCL3dZ2RKUqM=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Z99BEVV0RCjN5a6MtgKDYZDy4Nw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZwUgu8ek3f0WSqU2brUEJJ7CUZE=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/wR_kuLyHb4SSzOajWIIP8u+an5E=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/yj_6ViWPEOXVXRrcomvW4L0JsDY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/z_ylytwBHU8IZDm2VMYRdl4wMXo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YPH1bNes5HQ2LmdpkuSHs93bkX" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db94c7aa-dff1-4e94-be66-97a3ab9b2a8a" name="Changes" comment="" />
+      <created>1700420079821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700420079821</updated>
+    </task>
+    <task id="LOCAL-00001" summary="images">
+      <created>1700421335543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421335543</updated>
+    </task>
+    <task id="LOCAL-00002" summary="plugins">
+      <created>1700421385636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421385636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore">
+      <created>1700421414833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421414833</updated>
+    </task>
+    <task id="LOCAL-00004" summary="last build">
+      <created>1700421435691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421435691</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ninja">
+      <created>1700421449057</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421449057</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1700421473471</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421473471</updated>
+    </task>
+    <task id="LOCAL-00007" summary="composite stamp">
+      <created>1700421495911</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421495911</updated>
+    </task>
+    <task id="LOCAL-00008" summary="analysis options">
+      <created>1700421544262</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421544262</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Android Resources">
+      <created>1700421587462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421587462</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Annotation Processor">
+      <created>1700421610532</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421610532</updated>
+    </task>
+    <task id="LOCAL-00011" summary="inital commit">
+      <created>1700421632479</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421632479</updated>
+    </task>
+    <task id="LOCAL-00012" summary="app debug">
+      <created>1700421652641</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421652641</updated>
+    </task>
+    <task id="LOCAL-00013" summary="app debug kotilin">
+      <created>1700421681609</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421681609</updated>
+    </task>
+    <task id="LOCAL-00014" summary="app icon">
+      <created>1700421701966</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421701966</updated>
+    </task>
+    <task id="LOCAL-00015" summary="initial commit">
+      <created>1700421732942</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421732942</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="images" />
+    <MESSAGE value="plugins" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="last build" />
+    <MESSAGE value="ninja" />
+    <MESSAGE value="composite stamp" />
+    <MESSAGE value="initial files" />
+    <MESSAGE value="analysis options" />
+    <MESSAGE value="AndroidManifest" />
+    <MESSAGE value="Android Resources" />
+    <MESSAGE value="Annotation Processor" />
+    <MESSAGE value="inital commit" />
+    <MESSAGE value="app debug" />
+    <MESSAGE value="app metadata" />
+    <MESSAGE value="app debug kotilin" />
+    <MESSAGE value="app icon" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
