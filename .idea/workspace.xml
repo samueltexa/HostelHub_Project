@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db94c7aa-dff1-4e94-be66-97a3ab9b2a8a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/XRtZSvsAbz3I3i1ghnyDNiKfmww=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/YBQZ27twsGgxZllzUeelsRfANo0=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Z1JRDgO3RdONgGFQCL3dZ2RKUqM=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Z99BEVV0RCjN5a6MtgKDYZDy4Nw=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ZwUgu8ek3f0WSqU2brUEJJ7CUZE=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/wR_kuLyHb4SSzOajWIIP8u+an5E=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/yj_6ViWPEOXVXRrcomvW4L0JsDY=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/z_ylytwBHU8IZDm2VMYRdl4wMXo=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+    <list default="true" id="db94c7aa-dff1-4e94-be66-97a3ab9b2a8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +155,35 @@
       <option name="project" value="LOCAL" />
       <updated>1700421732942</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="config files">
+      <created>1700422041376</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1700422041376</updated>
+    </task>
+    <task id="LOCAL-00017" summary="images">
+      <created>1700422068016</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1700422068016</updated>
+    </task>
+    <task id="LOCAL-00018" summary="values">
+      <created>1700422186497</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1700422186497</updated>
+    </task>
+    <task id="LOCAL-00019" summary="widget_test">
+      <created>1700422364867</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1700422364867</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +198,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="images" />
     <MESSAGE value="plugins" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="last build" />
@@ -194,7 +214,11 @@
     <MESSAGE value="app debug kotilin" />
     <MESSAGE value="app icon" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="config files" />
+    <MESSAGE value="images" />
+    <MESSAGE value="values" />
+    <MESSAGE value="widget_test" />
+    <option name="LAST_COMMIT_MESSAGE" value="widget_test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
