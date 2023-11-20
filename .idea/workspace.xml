@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db94c7aa-dff1-4e94-be66-97a3ab9b2a8a" name="Changes" comment="vwrsion">
+    <list default="true" id="db94c7aa-dff1-4e94-be66-97a3ab9b2a8a" name="Changes" comment="innital commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/features/welcomepage/welcome.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/features/welcomepage/welcome.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,27 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700420079821</updated>
-    </task>
-    <task id="LOCAL-00001" summary="images">
-      <created>1700421335543</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1700421335543</updated>
-    </task>
-    <task id="LOCAL-00002" summary="plugins">
-      <created>1700421385636</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1700421385636</updated>
-    </task>
-    <task id="LOCAL-00003" summary="gitignore">
-      <created>1700421414833</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1700421414833</updated>
     </task>
     <task id="LOCAL-00004" summary="last build">
       <created>1700421435691</created>
@@ -280,7 +260,140 @@
       <option name="project" value="LOCAL" />
       <updated>1700423690120</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="facebook image">
+      <created>1700440399958</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440399958</updated>
+    </task>
+    <task id="LOCAL-00035" summary="image">
+      <created>1700440423545</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440423545</updated>
+    </task>
+    <task id="LOCAL-00036" summary="config files">
+      <created>1700440537898</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440537898</updated>
+    </task>
+    <task id="LOCAL-00037" summary="images">
+      <created>1700440588581</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440588581</updated>
+    </task>
+    <task id="LOCAL-00038" summary="config files">
+      <created>1700440616659</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440616659</updated>
+    </task>
+    <task id="LOCAL-00039" summary="app launcher image">
+      <created>1700440657177</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440657177</updated>
+    </task>
+    <task id="LOCAL-00040" summary="app icon">
+      <created>1700440739986</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440739986</updated>
+    </task>
+    <task id="LOCAL-00041" summary="initial commit">
+      <created>1700440789924</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440789924</updated>
+    </task>
+    <task id="LOCAL-00042" summary="initial commit">
+      <created>1700440813208</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440813208</updated>
+    </task>
+    <task id="LOCAL-00043" summary="introduction">
+      <created>1700440826452</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440826452</updated>
+    </task>
+    <task id="LOCAL-00044" summary="images">
+      <created>1700440850428</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440850428</updated>
+    </task>
+    <task id="LOCAL-00045" summary="logo">
+      <created>1700440874931</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440874931</updated>
+    </task>
+    <task id="LOCAL-00046" summary="image">
+      <created>1700440974952</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440974952</updated>
+    </task>
+    <task id="LOCAL-00047" summary="welcome">
+      <created>1700440992665</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1700440992665</updated>
+    </task>
+    <task id="LOCAL-00048" summary="terms of use">
+      <created>1700441039440</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1700441039440</updated>
+    </task>
+    <task id="LOCAL-00049" summary="images">
+      <created>1700441100639</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1700441100639</updated>
+    </task>
+    <task id="LOCAL-00050" summary="main">
+      <created>1700441163828</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1700441163829</updated>
+    </task>
+    <task id="LOCAL-00051" summary="innital commit">
+      <created>1700441353945</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1700441353945</updated>
+    </task>
+    <task id="LOCAL-00052" summary="innital commit">
+      <created>1700441361801</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700441361801</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,19 +408,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inital commit" />
-    <MESSAGE value="app debug" />
-    <MESSAGE value="app metadata" />
-    <MESSAGE value="app debug kotilin" />
-    <MESSAGE value="app icon" />
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="images" />
-    <MESSAGE value="values" />
-    <MESSAGE value="widget_test" />
-    <MESSAGE value="work space" />
-    <MESSAGE value="app thems" />
     <MESSAGE value="configuration files" />
-    <MESSAGE value="image" />
     <MESSAGE value="base" />
     <MESSAGE value="build" />
     <MESSAGE value="class" />
@@ -316,11 +417,23 @@
     <MESSAGE value="contents" />
     <MESSAGE value="contact" />
     <MESSAGE value="corpus" />
-    <MESSAGE value="config files" />
     <MESSAGE value="dark" />
     <MESSAGE value="desire" />
     <MESSAGE value="drawable" />
-    <option name="LAST_COMMIT_MESSAGE" value="drawable" />
+    <MESSAGE value="facebook image" />
+    <MESSAGE value="config files" />
+    <MESSAGE value="app launcher image" />
+    <MESSAGE value="app icon" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="introduction" />
+    <MESSAGE value="logo" />
+    <MESSAGE value="image" />
+    <MESSAGE value="welcome" />
+    <MESSAGE value="terms of use" />
+    <MESSAGE value="images" />
+    <MESSAGE value="main" />
+    <MESSAGE value="innital commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="innital commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

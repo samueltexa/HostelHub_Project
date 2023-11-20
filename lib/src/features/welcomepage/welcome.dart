@@ -26,10 +26,10 @@ class _WelcomeState extends State<Welcome> {
             DateTime.now().difference(_lastPressed!) > Duration(seconds: 2)) {
           // Show the 'click again to exit' message
           ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Center(child: Text('Press again to exit !')),
+            SnackBar(elevation: 0.0,
+              content: Center(child: Text('Press again to exit !',style: TextStyle(color: Theme.of(context).colorScheme.secondary),)),
               duration: Duration(seconds: 2),
-              backgroundColor: Theme.of(context).colorScheme.secondary
+              backgroundColor: Colors.transparent
             ),
           );
           _lastPressed = DateTime.now();
