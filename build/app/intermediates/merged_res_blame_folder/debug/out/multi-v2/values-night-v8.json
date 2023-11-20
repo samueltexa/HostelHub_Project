@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.hostelhub.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/samuel/hostelhub/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,1088",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "746,1252"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,507",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "502,671"
+                    }
+                }
+            ]
+        }
+    ]
+}
